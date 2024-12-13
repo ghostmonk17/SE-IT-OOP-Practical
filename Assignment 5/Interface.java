@@ -217,7 +217,7 @@ public class lab5 {
             }
         }
 
-        System.out.println("Thank you for using the Harshil Vehicle Simulation Program!");
+        System.out.println("program ended");
     }
 }
 //-------------------------------------------------------------------------------------------------------------------------------
