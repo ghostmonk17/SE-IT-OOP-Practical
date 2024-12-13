@@ -275,7 +275,7 @@ Choose an operation:
 4. Display Status
 5. Exit
 Enter your choice: 5
-Thank you for using the Harshil Vehicle Simulation Program!
+ended
 
 */
 //-----------------------------------------------------------------------------------------------------------------------------
